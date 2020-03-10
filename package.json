@@ -1,0 +1,18 @@
+{
+  "name": "TemRoping_pure-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Sadrakss/TeamRoping_pure-node.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
